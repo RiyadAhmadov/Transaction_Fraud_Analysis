@@ -1,0 +1,12 @@
+tensorflow==2.15.0
+pandas
+joblib
+gradio
+scikit-learn == 1.2.2
+datasets
+huggingface-hub>=0.19
+hf-transfer>=0.1.4
+protobuf<4
+click<8.1
+pydantic~=1.0
+lxml
