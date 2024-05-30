@@ -52,4 +52,4 @@ The Fraud Detection System is a machine learning-based application designed to d
 
 For any inquiries or feedback, please contact:
 
-- Your Name: [Mail](riyadehmedov03@gmail.com)
+- Your Name: riyadehmedov03@gmail.com
