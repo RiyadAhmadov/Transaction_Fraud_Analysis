@@ -29,11 +29,11 @@ The Fraud Detection System is a machine learning-based application designed to d
 
 2. Click the "Predict" button to view the prediction result.
 
-### App Link ['Fraud Detection App'](https://huggingface.co/spaces/riyadahmadov/Detect_Fraud_Transaction)
+### App Link [Fraud Detection App](https://huggingface.co/spaces/riyadahmadov/Detect_Fraud_Transaction)
 
 ## Data Sources
 
-- Kaggle Dataset : ['Transaction Data for fraud analysis'](https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata/data)
+- Kaggle Dataset : [Transaction Data for fraud analysis](https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata/data)
 
 ## Dependencies
 
@@ -52,4 +52,4 @@ The Fraud Detection System is a machine learning-based application designed to d
 
 For any inquiries or feedback, please contact:
 
-- Your Name: [riyadehmedov03@gmail.com]
+- Your Name: [Mail](riyadehmedov03@gmail.com)
